@@ -12,7 +12,7 @@
   
 
   Hello! I'm an enthusiastic software developer, specializing in the role of a full-stack developer. I'm driven by a constant passion for learning new technologies and designing projects and products that are both fun and innovative. On my GitHub profile, you'll find a variety of projects where I explore and practice with cutting-edge technologies. I hope you find something that sparks your interest!
-</div>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -41,7 +41,7 @@
 
 
 
-
+</div>
 
 
 
