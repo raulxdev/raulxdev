@@ -14,6 +14,10 @@
   Hello! I'm an enthusiastic software developer, specializing in the role of a full-stack developer. I'm driven by a constant passion for learning new technologies and designing projects and products that are both fun and innovative. On my GitHub profile, you'll find a variety of projects where I explore and practice with cutting-edge technologies. I hope you find something that sparks your interest!
 </div>
 
+### 🛠 &nbsp;Tech Stack
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=black&color=black'/></a>
+
+
 <img src="https://media1.tenor.com/m/5GQa-DDifk4AAAAC/yay-yes.gif" width="100px">
 
 
