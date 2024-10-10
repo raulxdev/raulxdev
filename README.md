@@ -7,7 +7,9 @@
 
 <div align="center">
   
-  ## Hi there  My name is **Raul** and welcome to my profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+  ## Hi there welcome to my profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+  
 
   Hello! I'm an enthusiastic software developer, specializing in the role of a full-stack developer. I'm driven by a constant passion for learning new technologies and designing projects and products that are both fun and innovative. On my GitHub profile, you'll find a variety of projects where I explore and practice with cutting-edge technologies. I hope you find something that sparks your interest!
 </div>
