@@ -40,7 +40,7 @@
 <a href='https://www.java.com/es/' target="_blank"><img alt='' src='https://img.shields.io/badge/Spring_BOOT-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=black'/></a>
 
 
-<img src="https://media.tenor.com/6vSZWYJVDp8AAAAi/thumbs-up-eric-cartman.gif" width="100px">
+<img src="https://media.tenor.com/6vSZWYJVDp8AAAAi/thumbs-up-eric-cartman.gif" width="200px">
 
 
 </div>
