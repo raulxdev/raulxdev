@@ -1,4 +1,6 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ## I'm Raul
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Raul
+
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media1.tenor.com/m/5GQa-DDifk4AAAAC/yay-yes.gif)" width="25px">
 
 <!--
 **raulxdev/raulxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
