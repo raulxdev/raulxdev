@@ -11,9 +11,8 @@
 <!--profile visit count-->
 
 <div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=RAULXDEV&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+  
+[![](https://visitcount.itsvg.in/api?id=RAULXDEV&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
