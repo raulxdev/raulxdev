@@ -6,8 +6,16 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
-
 <img src="https://media1.tenor.com/m/5GQa-DDifk4AAAAC/yay-yes.gif" width="100px">
+
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=RAULXDEV&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- FOOTER -->
 <div align="center" width="100">
