@@ -5,17 +5,14 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
+<div align="center">
+  My name is **Raul** and welcome to my profile.
+
+  Hello! I'm an enthusiastic software developer, specializing in the role of a full-stack developer. I'm driven by a constant passion for learning new technologies and designing projects and products that are both fun and innovative. On my GitHub profile, you'll find a variety of projects where I explore and practice with cutting-edge technologies. I hope you find something that sparks your interest!
+</div>
 
 <img src="https://media1.tenor.com/m/5GQa-DDifk4AAAAC/yay-yes.gif" width="100px">
 
-<div id="badges">
-<a href="(https://www.linkedin.com/in/raul-lopez-087b34202/)">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:raul.dev@icloud.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
-</a>
-</div>
 
 <!--profile visit count-->
 
