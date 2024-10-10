@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/raul.leonardo.lopez96?si=f579340af1d04e4f)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/raul.leonardo.lopez96)
 
 ---
 
